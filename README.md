@@ -1,5 +1,5 @@
 # Cyberpunk 2077 Countdown
-A timer that counts down to the release of cyberpunk 2077.
+A timer that counts down to the release of Cyberpunk 2077.
 
 Can be reset to another date, just in case its delayed again.
 
