@@ -51,6 +51,7 @@ video {
   z-index: 2;
   display: flex;
   justify-content: center;
+  text-align: center;
   background: rgba(0, 0, 0, 0.4);
 }
 
