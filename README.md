@@ -1,5 +1,4 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1487a76a-1d6a-402a-b19b-fd3ba7d4951f/deploy-status)](https://app.netlify.com/sites/countdown-to-cyberpunk2077/deploys)
-[![HitCount](http://hits.dwyl.com/RajanPatel97/Cyberpunk-2077-Countdown.svg)](http://hits.dwyl.com/RajanPatel97/Cyberpunk-2077-Countdown)
 
 # Cyberpunk 2077 Countdown
 A timer that counts down to the release of Cyberpunk 2077.
