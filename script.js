@@ -29,7 +29,7 @@ dateEl.setAttribute('min', today);
 
 const initialCountdown = {
     title: "Cyberpunk 2077 is released in...",
-    date: "2020-11-19"
+    date: "2020-12-10"
 }
 
 // Populate Countdown / Complete UI
