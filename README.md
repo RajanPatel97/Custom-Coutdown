@@ -9,4 +9,4 @@ Can be reset to another date, just in case its delayed again.
 
 ### BACKUP URL: https://rajanpatel97.github.io/Cyberpunk-2077-Countdown/
 
-Plain old vanilla JavaScript, HTML5 and CSS3 responsive web applications.
+Part of the '30 Days of JavaScript' Challenge
